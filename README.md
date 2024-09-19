@@ -12,22 +12,16 @@ The boilerplate follows a hexagonal architecture with the following main directo
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
+1. **Use the starter kit:**
 
    ```bash
-   git clone <repository-url>
+   npm init adonisjs@latest -- -K="CePseudoBE/adonis-hexa-boilerplate"
    ```
 
-2. **Install dependencies:**
+2. **Run the application:**
 
    ```bash
-   npm install
-   ```
-
-3. **Run the application:**
-
-   ```bash
-   node ace serve --watch
+   npm run dev
    ```
 
 ## ✨ Features
@@ -36,6 +30,7 @@ The boilerplate follows a hexagonal architecture with the following main directo
 - **AdonisJS**: Built on top of the latest version of AdonisJS for modern web development.
 - **TypeScript**: Full TypeScript support for better type safety.
 - **Testing**: Integrated with Japa for comprehensive test coverage.
+- **Use HMR Adonis fonctionnality**
 
 ## 🛠️ Development
 
